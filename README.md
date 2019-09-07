@@ -1,3 +1,3 @@
-# ProcessingProjects
+# Processing Projects
 
-@Author Enzo Trichês
+Espaço para deixar os projetinhos de Processing
